@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.d3dd52e4.css",
+    "main.js": "/landing-page/static/js/main.0f94e53f.js",
+    "static/media/card1.png": "/landing-page/static/media/card1.fafddf5ccc9bdea99aa2.png",
+    "static/media/discover.png": "/landing-page/static/media/discover.15bb9663868334f391e1.png",
+    "static/media/paypal.png": "/landing-page/static/media/paypal.ae62fa3dec7db39289ea.png",
+    "index.html": "/landing-page/index.html",
+    "main.d3dd52e4.css.map": "/landing-page/static/css/main.d3dd52e4.css.map",
+    "main.0f94e53f.js.map": "/landing-page/static/js/main.0f94e53f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3dd52e4.css",
+    "static/js/main.0f94e53f.js"
+  ]
+}
