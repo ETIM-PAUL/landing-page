@@ -1,0 +1,41 @@
+
+html {
+  height:100%;
+  
+}
+
+body {
+  /* background-image: url(${BGimage}); */
+  background-size: cover;
+  margin: 0;
+  padding: 0 20px;
+  /* display: flex; */
+  justify-content: center;
+  background-color: white;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: 'Catamaran', sans-serif;
+}
+
+.slayout{
+  background:#fff;
+}
+
+.tot{
+  font-weight: 900;
+}
+
+a{
+  color: black;
+}
+
+.money{
+  font-family:sans-serif;
+  font-weight: 600;
+}
+
+.code{
+  color:gainsboro;
+}
